@@ -1,7 +1,7 @@
 {
   "name": "SwiftPay",
   "short_name": "SwiftPay",
-  "start_url": "/",
+  "start_url": "https://atharva-9423.github.io/SwiftPay",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#161b22",
