@@ -1,3 +1,1 @@
 # This is the fake payment app to prank your friends...
-
-atharva-9423.github.io/SwiftPay
